@@ -1,0 +1,40 @@
+.top.row {
+  border-bottom: solid;
+}
+
+.middle.row {
+  border-top: solid;
+  border-bottom: solid;
+}
+
+.bottom.row {
+  border-top: solid;
+}
+
+.left.column {
+  border-right: solid;
+}
+
+.middle.column {
+  border-left: solid;
+  border-right: solid;
+}
+
+.right.column {
+  border-left: solid;
+}
+
+.cell {
+  width: 100px;
+  height: 100px;
+  text-align:center;
+  font-size: 70px;
+}
+
+.column {
+  display: inline-block;
+}
+
+.row {
+  width: fit-content;
+}

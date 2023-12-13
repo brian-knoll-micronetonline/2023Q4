@@ -4,6 +4,7 @@
 # To Start
 ## In one terminal pointed at your folder
 npm install --legacy-peer-deps
+
 ng serve
 
 ## In another terminal pointed at your folder
